@@ -1,4 +1,4 @@
-BEGIN;
+dBEGIN;
 
 INSERT INTO tbl_cards (
   id, hp, name, info, attack, damage, weak, resis, retreat,
